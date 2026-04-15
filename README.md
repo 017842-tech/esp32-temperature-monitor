@@ -39,10 +39,10 @@ Real-time temperature and humidity monitoring system built with ESP32, featuring
 
 ## 📸 Demo
 
-### 🔧 Hardware Setup
+### 📟 OLED Display Output
 <img width="600" src="https://github.com/user-attachments/assets/91b98ca8-c713-4c92-97ba-07072259bd7a" />
 
-### 📟 OLED Display Output
+### 🔧 Hardware Setup
 <img width="600" src="https://github.com/user-attachments/assets/53b23e5f-3aad-4c0d-bde1-47be2c717b48" />
 
 ### 🚦 LED Status Indicators
