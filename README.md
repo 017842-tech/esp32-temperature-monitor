@@ -56,6 +56,18 @@ Real-time temperature and humidity monitoring system built with ESP32, featuring
 * Mobile & Web dashboard integration
 * Visual temperature graph
 
+--
+##  Simulation (Wokwi)
+
+This project includes a simulation built using Wokwi.
+
+🔗 https://wokwi.com/projects/461941187575284737
+
+Simulation files:
+- diagram.json → circuit design
+- wokwi-project.txt → project configuration
+- libraries.txt → required libraries
+
 ---
 
 ##  Version
