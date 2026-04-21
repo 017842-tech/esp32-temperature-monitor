@@ -37,10 +37,16 @@ Real-time temperature and humidity monitoring system built with ESP32, featuring
 
 
 
-##  Demo
-<img width="3060" height="4080" alt="20260415_155820" src="https://github.com/user-attachments/assets/91b98ca8-c713-4c92-97ba-07072259bd7a" />
-<img width="3060" height="4080" alt="20260415_160007" src="https://github.com/user-attachments/assets/53b23e5f-3aad-4c0d-bde1-47be2c717b48" />
-<img width="3060" height="4080" alt="20260415_160010" src="https://github.com/user-attachments/assets/2b20e6fc-cb4d-45f6-a006-0fda8ad8966f" />
+## 📸 Demo
+
+### 📟 OLED Display Output
+<img width="600" src="https://github.com/user-attachments/assets/91b98ca8-c713-4c92-97ba-07072259bd7a" />
+
+### 🔧 Hardware Setup
+<img width="600" src="https://github.com/user-attachments/assets/53b23e5f-3aad-4c0d-bde1-47be2c717b48" />
+
+### 🚦 LED Status Indicators
+<img width="600" src="https://github.com/user-attachments/assets/2b20e6fc-cb4d-45f6-a006-0fda8ad8966f" />
 
 
 ##  Future Improvements
@@ -49,6 +55,18 @@ Real-time temperature and humidity monitoring system built with ESP32, featuring
 * Firebase real-time database
 * Mobile & Web dashboard integration
 * Visual temperature graph
+
+--
+##  Simulation (Wokwi)
+
+This project includes a simulation built using Wokwi.
+
+🔗 https://wokwi.com/projects/461941187575284737
+
+Simulation files:
+- diagram.json → circuit design
+- wokwi-project.txt → project configuration
+- libraries.txt → required libraries
 
 ---
 
